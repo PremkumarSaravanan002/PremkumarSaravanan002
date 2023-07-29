@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **premkumarses599@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AZ9w1C-ObJ52O1rZnFOh5IsN5-wCBCb6/view?usp=sharing](https://drive.google.com/file/d/1AZ9w1C-ObJ52O1rZnFOh5IsN5-wCBCb6/view?usp=sharing)
+<!-- 📄 Know about my experiences [https://drive.google.com/file/d/1AZ9w1C-ObJ52O1rZnFOh5IsN5-wCBCb6/view?usp=sharing](https://drive.google.com/file/d/1AZ9w1C-ObJ52O1rZnFOh5IsN5-wCBCb6/view?usp=sharing) -->
 
 - ⚡ Fun fact **I'm a less of a talker**
 
