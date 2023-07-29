@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Premkumar</h1>
 <h3 align="center">A passionate software developer</h3>
 
-- 🔭 I’m currently working on **IOT**
+<!-- - 🔭 I’m currently working on **IOT**-->
 
 - 🌱 I’m currently learning **Salesforce, UI/UX, Kafka**
 
