@@ -16,19 +16,18 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Premkumar</h1>
 <h3 align="center">A passionate software developer</h3>
 
-<!-- - 🔭 I’m currently working on **IOT**-->
+<!-- - 🔭 I’m currently working on **Machine learning**-->
 
-- 🌱 I’m currently learning **Salesforce, UI/UX, Kafka**
+- 🌱 I’m currently learning **Machine learning, Web development**
 
 - 📫 How to reach me **premkumarses599@gmail.com**
 
 <!-- 📄 Know about my experiences [https://drive.google.com/file/d/1AZ9w1C-ObJ52O1rZnFOh5IsN5-wCBCb6/view?usp=sharing](https://drive.google.com/file/d/1AZ9w1C-ObJ52O1rZnFOh5IsN5-wCBCb6/view?usp=sharing) -->
 
-- ⚡ Fun fact **I'm a patient person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/premkumar-saravanan-74546a206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/premkumar-saravanan-74546a206" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/premkumar-s-74546a206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/premkumar-saravanan-74546a206" height="30" width="40" /></a>
 <a href="https://medium.com/@premkumarses599" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@premkumarses599" height="30" width="40" /></a>
 <a href="https://youtube.com/@premkumarsaravanan9238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@premkumarsaravanan9238" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/premkumarses599?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/premkumarses599?hr_r=1" height="30" width="40" /></a>
