@@ -12,7 +12,7 @@
 
 - 🎓 Certified:
   - **SnowPro Core Certification** – *Snowflake*
-  - **Databricks Certified Associate Data Engineer*
+  - **Databricks Certified Associate Data Engineer**
 
 - 📫 How to reach me: **premkumarses599@gmail.com**
 
